@@ -1,4 +1,4 @@
-# Project-005 : Ios Calculator (HC-05)
+# Project-006 : IOS Calculator
 
 
 ## Description
@@ -8,9 +8,6 @@
 
 ![CSS-GRID IOS CALCULATOR](./css-grid-ios.png)
 
-## Objective
-
-Design a IOS CALCULATOR that is functionally similar to this: [IOS CALCULATOR](https://css-grid-ios.netlify.app/)
 
 ### Technologies and Tools
 
